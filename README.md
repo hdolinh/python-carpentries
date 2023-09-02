@@ -1,5 +1,5 @@
 # Learning Python
-Learning Python with data science chat folks at NCEAS and using data carpentries Python for ecologists lessons to guide our learning.
+Learning Python with [data science chat folks at NCEAS](https://nceas-coding-club.github.io/) and using data carpentries Python for ecologists lessons to guide our learning.
 
 Resources:
 
